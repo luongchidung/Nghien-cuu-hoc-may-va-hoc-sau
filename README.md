@@ -1,5 +1,5 @@
-**NGHIÊN CỨU VÀ ỨNG DỤNG MÔ HÌNH CNN, SVM, NB TRONG PHÁT HIỆN TIN NHẮN/EMAIL GIẢ MẠO 
-**# 🛡️ Hệ thống Phát hiện Tin nhắn Spam/Phishing
+# NGHIÊN CỨU VÀ ỨNG DỤNG MÔ HÌNH CNN, SVM, NB TRONG PHÁT HIỆN TIN NHẮN/EMAIL GIẢ MẠO 
+# 🛡️ Hệ thống Phát hiện Tin nhắn Spam/Phishing
 
 Đồ án sử dụng **Machine Learning** và **Deep Learning** để phân loại tin nhắn SMS là **Ham** (hợp lệ) hay **Spam** (giả mạo).
 
